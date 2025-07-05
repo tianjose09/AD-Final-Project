@@ -6,17 +6,17 @@
 <div align="center">
   <a href="https://github.com/korkydoobie/">
 
-  <h3 align="center">AD-Meeting-Calendar</h3>
+  <h3 align="center">AD-Final-Project</h3>
 </div>
 
 <div align="center">
-  A simple task to setup docker
+  Our group project showcases our combined skills in front-end development, back-end programming, and database management by creating a fully functional, space-themed website inspired by Interstellar. 
 </div>
 
 <br />
 
 
-![](https://visit-counter.vercel.app/counter.png?page=korkydoobie/AD-Meeting-Calendar)
+![](https://visit-counter.vercel.app/counter.png?page=korkydoobie/AD-Final-Project)
 
 [![wakatime](https://wakatime.com/badge/user/60539570-3987-493f-80b9-ae1acdd3eed1/project/5acea1cb-5a54-4eea-8d7a-ea348d7327c5.svg)](https://wakatime.com/badge/user/60539570-3987-493f-80b9-ae1acdd3eed1/project/5acea1cb-5a54-4eea-8d7a-ea348d7327c5)
 
@@ -49,7 +49,7 @@
 
 ## Overview
 
-This is a project that aims to show that the docker setup is successful.
+This project is a space-themed website inspired by Interstellar, designed to demonstrate our team’s proficiency in front-end, back-end, and database development. It features interactive components, dynamic functionality, and a cohesive design that reflects our full-stack capabilities.
 
 ### Technology
 
