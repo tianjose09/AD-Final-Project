@@ -10,3 +10,5 @@ if (php_sapi_name() === 'cli-server') {
 }
 
 require BASE_PATH . '/index.php';
+
+echo "Hello";
